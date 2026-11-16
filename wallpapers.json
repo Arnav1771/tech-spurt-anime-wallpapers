@@ -781,61 +781,66 @@
     "character": "A2"
   },
   {
-    "id": "roronoa_zoro_santoryu",
-    "title": "Roronoa Zoro (Santoryu Three Swords Style)",
-    "anime": "One Piece",
-    "category": "Action",
-    "characters": [
-      "Roronoa Zoro"
-    ],
-    "resolution": "2480x3508",
-    "size": "0.58 MB",
-    "file_size_bytes": 603208,
-    "wallpaper": "wallpapers/41-roronoa_zoro_santoryu.jpg",
-    "thumb": "thumbs/41-roronoa_zoro_santoryu.webp",
-    "featured_in": "Samsung Galaxy Z Fold 6 Multi-Window Test",
     "index": 41,
-    "file_url": "wallpapers/41-roronoa_zoro_santoryu.jpg",
-    "thumb_url": "thumbs/41-roronoa_zoro_santoryu.webp",
-    "character": "Roronoa Zoro"
+    "id": "saitama_serious_punch",
+    "title": "Saitama (Serious Punch & Red Glove)",
+    "character": "Saitama",
+    "characters": [
+      "Saitama"
+    ],
+    "anime": "One Punch Man",
+    "category": "Action",
+    "featured_in": "Poco F6 Pro & Realme GT 6 Speed Benchmarks",
+    "resolution": "2300x4000",
+    "size": "7.7 MB",
+    "filename": "41-saitama_serious_punch.png",
+    "thumb": "thumbs/41-saitama_serious_punch.webp",
+    "file_url": "wallpapers/41-saitama_serious_punch.png",
+    "thumb_url": "thumbs/41-saitama_serious_punch.webp",
+    "file_size_bytes": 8078395,
+    "wallpaper": "wallpapers/41-saitama_serious_punch.png"
   },
   {
-    "id": "jotaro_kujo_star_platinum",
-    "title": "Jotaro Kujo (Star Platinum Ora Aura)",
-    "anime": "JoJo's Bizarre Adventure",
-    "category": "Action",
-    "characters": [
-      "Jotaro Kujo"
-    ],
-    "resolution": "1600x2133",
-    "size": "4.58 MB",
-    "file_size_bytes": 4802002,
-    "wallpaper": "wallpapers/42-jotaro_kujo_star_platinum.png",
-    "thumb": "thumbs/42-jotaro_kujo_star_platinum.webp",
-    "featured_in": "OnePlus Open Unboxing & Display Review",
     "index": 42,
-    "file_url": "wallpapers/42-jotaro_kujo_star_platinum.png",
-    "thumb_url": "thumbs/42-jotaro_kujo_star_platinum.webp",
-    "character": "Jotaro Kujo"
+    "id": "momo_ayase_okarun_dandadan",
+    "title": "Momo Ayase & Okarun (Spiritual Alien Dual Aura)",
+    "character": "Momo Ayase, Ken Takakura (Okarun)",
+    "characters": [
+      "Momo Ayase",
+      "Ken Takakura (Okarun)"
+    ],
+    "anime": "Dandadan",
+    "category": "Action",
+    "featured_in": "OnePlus 13 & Xiaomi 15 Pro Flagship Showcases",
+    "resolution": "4096x6109",
+    "size": "3.41 MB",
+    "filename": "42-momo_ayase_okarun_dandadan.jpg",
+    "thumb": "thumbs/42-momo_ayase_okarun_dandadan.webp",
+    "file_url": "wallpapers/42-momo_ayase_okarun_dandadan.jpg",
+    "thumb_url": "thumbs/42-momo_ayase_okarun_dandadan.webp",
+    "file_size_bytes": 3575369,
+    "wallpaper": "wallpapers/42-momo_ayase_okarun_dandadan.jpg"
   },
   {
-    "id": "goku_ultra_instinct_silver",
-    "title": "Son Goku (Mastered Ultra Instinct Aura)",
-    "anime": "Dragon Ball Super",
-    "category": "Action",
-    "characters": [
-      "Son Goku"
-    ],
-    "resolution": "1687x3653",
-    "size": "1.2 MB",
-    "file_size_bytes": 1258160,
-    "wallpaper": "wallpapers/43-goku_ultra_instinct_silver.jpg",
-    "thumb": "thumbs/43-goku_ultra_instinct_silver.webp",
-    "featured_in": "Poco X6 Pro Peak Brightness Test",
     "index": 43,
-    "file_url": "wallpapers/43-goku_ultra_instinct_silver.jpg",
-    "thumb_url": "thumbs/43-goku_ultra_instinct_silver.webp",
-    "character": "Son Goku"
+    "id": "saitama_genos_hero_association",
+    "title": "Saitama & Genos (Hero Association Partners)",
+    "character": "Saitama, Genos",
+    "characters": [
+      "Saitama",
+      "Genos"
+    ],
+    "anime": "One Punch Man",
+    "category": "Action",
+    "featured_in": "Asus ROG Phone 8 Pro Gaming & Thermal Test",
+    "resolution": "3848x5920",
+    "size": "8.26 MB",
+    "filename": "43-saitama_genos_hero_association.png",
+    "thumb": "thumbs/43-saitama_genos_hero_association.webp",
+    "file_url": "wallpapers/43-saitama_genos_hero_association.png",
+    "thumb_url": "thumbs/43-saitama_genos_hero_association.webp",
+    "file_size_bytes": 8663405,
+    "wallpaper": "wallpapers/43-saitama_genos_hero_association.png"
   },
   {
     "id": "tanjiro_hinokami_kagura",
@@ -857,23 +862,24 @@
     "character": "Tanjiro Kamado"
   },
   {
-    "id": "megumi_shadow_divine_dog",
-    "title": "Megumi Fushiguro (Ten Shadows Technique)",
-    "anime": "Jujutsu Kaisen",
-    "category": "Action",
-    "characters": [
-      "Megumi Fushiguro"
-    ],
-    "resolution": "1080x1920",
-    "size": "1.42 MB",
-    "file_size_bytes": 1494160,
-    "wallpaper": "wallpapers/45-megumi_shadow_divine_dog.jpg",
-    "thumb": "thumbs/45-megumi_shadow_divine_dog.webp",
-    "featured_in": "Google Pixel 8 Pro Contrast Review",
     "index": 45,
-    "file_url": "wallpapers/45-megumi_shadow_divine_dog.jpg",
-    "thumb_url": "thumbs/45-megumi_shadow_divine_dog.webp",
-    "character": "Megumi Fushiguro"
+    "id": "mob_psycho_100_awakening",
+    "title": "Shigeo Kageyama (Mob 100% Awakening Burst)",
+    "character": "Shigeo Kageyama",
+    "characters": [
+      "Shigeo Kageyama"
+    ],
+    "anime": "Mob Psycho 100",
+    "category": "Action",
+    "featured_in": "Google Pixel 8 Pro & Sony Xperia 1 VI OLED Tests",
+    "resolution": "1080x2280",
+    "size": "1.15 MB",
+    "filename": "45-mob_psycho_100_awakening.png",
+    "thumb": "thumbs/45-mob_psycho_100_awakening.webp",
+    "file_url": "wallpapers/45-mob_psycho_100_awakening.png",
+    "thumb_url": "thumbs/45-mob_psycho_100_awakening.webp",
+    "file_size_bytes": 1203551,
+    "wallpaper": "wallpapers/45-mob_psycho_100_awakening.png"
   },
   {
     "id": "ruka_sarashina_blue_ribbon",
@@ -914,23 +920,24 @@
     "character": "Violet Evergarden"
   },
   {
-    "id": "holo_spice_and_wolf_wheat",
-    "title": "Holo the Wise Wolf (Golden Wheat & Apples)",
-    "anime": "Spice and Wolf",
-    "category": "Romance",
-    "characters": [
-      "Holo"
-    ],
-    "resolution": "1985x2786",
-    "size": "0.79 MB",
-    "file_size_bytes": 828901,
-    "wallpaper": "wallpapers/48-holo_spice_and_wolf_wheat.jpg",
-    "thumb": "thumbs/48-holo_spice_and_wolf_wheat.webp",
-    "featured_in": "Honor Magic 6 Pro Sunlight Legibility Test",
     "index": 48,
-    "file_url": "wallpapers/48-holo_spice_and_wolf_wheat.jpg",
-    "thumb_url": "thumbs/48-holo_spice_and_wolf_wheat.webp",
-    "character": "Holo"
+    "id": "momo_ayase_telekinesis",
+    "title": "Momo Ayase (Spiritual Telekinesis)",
+    "character": "Momo Ayase",
+    "characters": [
+      "Momo Ayase"
+    ],
+    "anime": "Dandadan",
+    "category": "Action",
+    "featured_in": "Vivo X200 Pro & Nothing Phone (2a) Plus Reviews",
+    "resolution": "2048x2896",
+    "size": "9.22 MB",
+    "filename": "48-momo_ayase_telekinesis.png",
+    "thumb": "thumbs/48-momo_ayase_telekinesis.webp",
+    "file_url": "wallpapers/48-momo_ayase_telekinesis.png",
+    "thumb_url": "thumbs/48-momo_ayase_telekinesis.webp",
+    "file_size_bytes": 9666339,
+    "wallpaper": "wallpapers/48-momo_ayase_telekinesis.png"
   },
   {
     "id": "denji_chainsaw_rippcord",
