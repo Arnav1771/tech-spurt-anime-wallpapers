@@ -67,14 +67,14 @@ Includes an **interactive web showcase and live smartphone emulator** with real-
 | 38 | **Ichigo Kurosaki (Tensa Zangetsu & Hollow Mask)** | *Bleach* | `Action` | `1080x1920` | 0.62 MB | Poco F6 Speed Benchmark |
 | 39 | **Levi Ackerman (Captain of Special Operations)** | *Attack on Titan* | `Action` | `1080x1920` | 0.77 MB | Xiaomi 13T Pro High Refresh Test |
 | 40 | **YoRHa Type A No. 2 (A2 Long Hair Blade)** | *NieR:Automata* | `Gaming` | `1080x1902` | 2.16 MB | Sony Xperia 5 V Compact Powerhouse Review |
-| 41 | **Roronoa Zoro (Santoryu Three Swords Style)** | *One Piece* | `Action` | `2480x3508` | 0.58 MB | Samsung Galaxy Z Fold 6 Multi-Window Test |
-| 42 | **Jotaro Kujo (Star Platinum Ora Aura)** | *JoJo's Bizarre Adventure* | `Action` | `1600x2133` | 4.58 MB | OnePlus Open Unboxing & Display Review |
-| 43 | **Son Goku (Mastered Ultra Instinct Aura)** | *Dragon Ball Super* | `Action` | `1687x3653` | 1.2 MB | Poco X6 Pro Peak Brightness Test |
+| 41 | **Saitama (Serious Punch & Red Glove)** | *One Punch Man* | `Action` | `2300x4000` | 7.7 MB | Poco F6 Pro & Realme GT 6 Speed Benchmarks |
+| 42 | **Momo Ayase & Okarun (Spiritual Alien Dual Aura)** | *Dandadan* | `Action` | `4096x6109` | 3.41 MB | OnePlus 13 & Xiaomi 15 Pro Flagship Showcases |
+| 43 | **Saitama & Genos (Hero Association Partners)** | *One Punch Man* | `Action` | `3848x5920` | 8.26 MB | Asus ROG Phone 8 Pro Gaming & Thermal Test |
 | 44 | **Tanjiro Kamado (Dance of the Fire God)** | *Demon Slayer* | `Action` | `1440x2560` | 0.95 MB | Xiaomi 15 Display Contrast Review |
-| 45 | **Megumi Fushiguro (Ten Shadows Technique)** | *Jujutsu Kaisen* | `Action` | `1080x1920` | 1.42 MB | Google Pixel 8 Pro Contrast Review |
+| 45 | **Shigeo Kageyama (Mob 100% Awakening Burst)** | *Mob Psycho 100* | `Action` | `1080x2280` | 1.15 MB | Google Pixel 8 Pro & Sony Xperia 1 VI OLED Tests |
 | 46 | **Ruka Sarashina (Blue Ribbon & Heartbeat)** | *Rent-A-Girlfriend* | `Romance` | `2481x3519` | 0.75 MB | OnePlus 12R Flagship Killer Showcase |
 | 47 | **Violet Evergarden (Auto Memory Doll & Parasol)** | *Violet Evergarden* | `Romance` | `2166x4000` | 7.58 MB | iPhone 16 Pro Max 1-Month Review |
-| 48 | **Holo the Wise Wolf (Golden Wheat & Apples)** | *Spice and Wolf* | `Romance` | `1985x2786` | 0.79 MB | Honor Magic 6 Pro Sunlight Legibility Test |
+| 48 | **Momo Ayase (Spiritual Telekinesis)** | *Dandadan* | `Action` | `2048x2896` | 9.22 MB | Vivo X200 Pro & Nothing Phone (2a) Plus Reviews |
 | 49 | **Denji (Chainsaw Devil Rev & Sparks)** | *Chainsaw Man* | `Action` | `2480x3953` | 4.58 MB | Redmi Note 13 Pro Plus Test |
 | 50 | **Lucy & David (Night City Cyber Neon Orbit)** | *Cyberpunk: Edgerunners* | `Cyberpunk` | `3300x5100` | 14.85 MB | OnePlus 11 & ROG Phone 8 Benchmark |
 
