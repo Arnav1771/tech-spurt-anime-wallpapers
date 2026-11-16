@@ -8,11 +8,16 @@
     "category": "Romance",
     "featured_in": "Xiaomi 14 & Vivo X100 Flagship Reviews",
     "resolution": "1401x2211",
-    "size": "5.1 MB",
+    "size": "5.14 MB",
     "filename": "01-chizuru_red_dress.png",
-    "thumb": "01-chizuru_red_dress.webp",
+    "thumb": "thumbs/01-chizuru_red_dress.webp",
     "file_url": "wallpapers/01-chizuru_red_dress.png",
-    "thumb_url": "thumbs/01-chizuru_red_dress.webp"
+    "thumb_url": "thumbs/01-chizuru_red_dress.webp",
+    "file_size_bytes": 5393715,
+    "wallpaper": "wallpapers/01-chizuru_red_dress.png",
+    "characters": [
+      "Chizuru Mizuhara"
+    ]
   },
   {
     "index": 2,
@@ -25,9 +30,14 @@
     "resolution": "2250x4000",
     "size": "6.1 MB",
     "filename": "02-chizuru_cheerleader.png",
-    "thumb": "02-chizuru_cheerleader.webp",
+    "thumb": "thumbs/02-chizuru_cheerleader.webp",
     "file_url": "wallpapers/02-chizuru_cheerleader.png",
-    "thumb_url": "thumbs/02-chizuru_cheerleader.webp"
+    "thumb_url": "thumbs/02-chizuru_cheerleader.webp",
+    "file_size_bytes": 6395012,
+    "wallpaper": "wallpapers/02-chizuru_cheerleader.png",
+    "characters": [
+      "Chizuru Mizuhara"
+    ]
   },
   {
     "index": 3,
@@ -38,11 +48,16 @@
     "category": "Romance",
     "featured_in": "Google Pixel 8 & Nothing Phone (1) Tests",
     "resolution": "2221x3500",
-    "size": "2.9 MB",
+    "size": "2.86 MB",
     "filename": "03-komi_maid.jpg",
-    "thumb": "03-komi_maid.webp",
+    "thumb": "thumbs/03-komi_maid.webp",
     "file_url": "wallpapers/03-komi_maid.jpg",
-    "thumb_url": "thumbs/03-komi_maid.webp"
+    "thumb_url": "thumbs/03-komi_maid.webp",
+    "file_size_bytes": 3000968,
+    "wallpaper": "wallpapers/03-komi_maid.jpg",
+    "characters": [
+      "Shouko Komi"
+    ]
   },
   {
     "index": 4,
@@ -53,11 +68,16 @@
     "category": "Cyberpunk",
     "featured_in": "Nothing Phone (2) & ROG Phone 8 Reviews",
     "resolution": "2160x3840",
-    "size": "5.4 MB",
+    "size": "5.41 MB",
     "filename": "04-lucy_neon_moon.png",
-    "thumb": "04-lucy_neon_moon.webp",
+    "thumb": "thumbs/04-lucy_neon_moon.webp",
     "file_url": "wallpapers/04-lucy_neon_moon.png",
-    "thumb_url": "thumbs/04-lucy_neon_moon.webp"
+    "thumb_url": "thumbs/04-lucy_neon_moon.webp",
+    "file_size_bytes": 5672325,
+    "wallpaper": "wallpapers/04-lucy_neon_moon.png",
+    "characters": [
+      "Lucy"
+    ]
   },
   {
     "index": 5,
@@ -68,11 +88,16 @@
     "category": "Cyberpunk",
     "featured_in": "OnePlus 12 & Samsung S24 Ultra Tests",
     "resolution": "2161x3840",
-    "size": "1.1 MB",
+    "size": "1.13 MB",
     "filename": "05-cyberpunk_neon_rain.jpg",
-    "thumb": "05-cyberpunk_neon_rain.webp",
+    "thumb": "thumbs/05-cyberpunk_neon_rain.webp",
     "file_url": "wallpapers/05-cyberpunk_neon_rain.jpg",
-    "thumb_url": "thumbs/05-cyberpunk_neon_rain.webp"
+    "thumb_url": "thumbs/05-cyberpunk_neon_rain.webp",
+    "file_size_bytes": 1183703,
+    "wallpaper": "wallpapers/05-cyberpunk_neon_rain.jpg",
+    "characters": [
+      "Cyberpunk Girl"
+    ]
   },
   {
     "index": 6,
@@ -83,11 +108,16 @@
     "category": "Mecha",
     "featured_in": "Sony Xperia 1 V & RedMagic Flagships",
     "resolution": "2181x3877",
-    "size": "6.8 MB",
+    "size": "6.81 MB",
     "filename": "06-asuka_plugsuit.jpg",
-    "thumb": "06-asuka_plugsuit.webp",
+    "thumb": "thumbs/06-asuka_plugsuit.webp",
     "file_url": "wallpapers/06-asuka_plugsuit.jpg",
-    "thumb_url": "thumbs/06-asuka_plugsuit.webp"
+    "thumb_url": "thumbs/06-asuka_plugsuit.webp",
+    "file_size_bytes": 7139608,
+    "wallpaper": "wallpapers/06-asuka_plugsuit.jpg",
+    "characters": [
+      "Asuka Langley Soryu"
+    ]
   },
   {
     "index": 7,
@@ -98,11 +128,16 @@
     "category": "Mecha",
     "featured_in": "Google Pixel 8 Pro OLED Display Benchmark",
     "resolution": "1500x2973",
-    "size": "6.2 MB",
+    "size": "6.24 MB",
     "filename": "07-rei_plugsuit.jpg",
-    "thumb": "07-rei_plugsuit.webp",
+    "thumb": "thumbs/07-rei_plugsuit.webp",
     "file_url": "wallpapers/07-rei_plugsuit.jpg",
-    "thumb_url": "thumbs/07-rei_plugsuit.webp"
+    "thumb_url": "thumbs/07-rei_plugsuit.webp",
+    "file_size_bytes": 6545112,
+    "wallpaper": "wallpapers/07-rei_plugsuit.jpg",
+    "characters": [
+      "Rei Ayanami"
+    ]
   },
   {
     "index": 8,
@@ -113,11 +148,16 @@
     "category": "Action",
     "featured_in": "OnePlus 11 & Xiaomi 13 Pro Reviews",
     "resolution": "2000x3170",
-    "size": "1.1 MB",
+    "size": "1.12 MB",
     "filename": "08-makima_spiral_eyes.jpg",
-    "thumb": "08-makima_spiral_eyes.webp",
+    "thumb": "thumbs/08-makima_spiral_eyes.webp",
     "file_url": "wallpapers/08-makima_spiral_eyes.jpg",
-    "thumb_url": "thumbs/08-makima_spiral_eyes.webp"
+    "thumb_url": "thumbs/08-makima_spiral_eyes.webp",
+    "file_size_bytes": 1173773,
+    "wallpaper": "wallpapers/08-makima_spiral_eyes.jpg",
+    "characters": [
+      "Makima"
+    ]
   },
   {
     "index": 9,
@@ -128,11 +168,16 @@
     "category": "Action",
     "featured_in": "Poco F5 Pro & RealMe GT Tests",
     "resolution": "2212x3508",
-    "size": "1.9 MB",
+    "size": "1.85 MB",
     "filename": "09-power_blood_devil.jpg",
-    "thumb": "09-power_blood_devil.webp",
+    "thumb": "thumbs/09-power_blood_devil.webp",
     "file_url": "wallpapers/09-power_blood_devil.jpg",
-    "thumb_url": "thumbs/09-power_blood_devil.webp"
+    "thumb_url": "thumbs/09-power_blood_devil.webp",
+    "file_size_bytes": 1941819,
+    "wallpaper": "wallpapers/09-power_blood_devil.jpg",
+    "characters": [
+      "Power"
+    ]
   },
   {
     "index": 10,
@@ -143,11 +188,16 @@
     "category": "Action",
     "featured_in": "Galaxy Z Fold 5 & Flip 5 Screen Tests",
     "resolution": "1472x2616",
-    "size": "0.5 MB",
+    "size": "0.51 MB",
     "filename": "10-gojo_infinite_void.jpg",
-    "thumb": "10-gojo_infinite_void.webp",
+    "thumb": "thumbs/10-gojo_infinite_void.webp",
     "file_url": "wallpapers/10-gojo_infinite_void.jpg",
-    "thumb_url": "thumbs/10-gojo_infinite_void.webp"
+    "thumb_url": "thumbs/10-gojo_infinite_void.webp",
+    "file_size_bytes": 538615,
+    "wallpaper": "wallpapers/10-gojo_infinite_void.jpg",
+    "characters": [
+      "Satoru Gojo"
+    ]
   },
   {
     "index": 11,
@@ -158,11 +208,16 @@
     "category": "Gaming",
     "featured_in": "Asus ROG Phone 8 Pro Gaming Benchmark",
     "resolution": "1447x3196",
-    "size": "0.5 MB",
+    "size": "0.51 MB",
     "filename": "11-raiden_lightning_katana.jpg",
-    "thumb": "11-raiden_lightning_katana.webp",
+    "thumb": "thumbs/11-raiden_lightning_katana.webp",
     "file_url": "wallpapers/11-raiden_lightning_katana.jpg",
-    "thumb_url": "thumbs/11-raiden_lightning_katana.webp"
+    "thumb_url": "thumbs/11-raiden_lightning_katana.webp",
+    "file_size_bytes": 533337,
+    "wallpaper": "wallpapers/11-raiden_lightning_katana.jpg",
+    "characters": [
+      "Raiden Shogun"
+    ]
   },
   {
     "index": 12,
@@ -173,11 +228,16 @@
     "category": "Gaming",
     "featured_in": "Stealth Phone Showcase",
     "resolution": "1750x3500",
-    "size": "1.0 MB",
+    "size": "1.02 MB",
     "filename": "12-keqing_electro_sword.jpg",
-    "thumb": "12-keqing_electro_sword.webp",
+    "thumb": "thumbs/12-keqing_electro_sword.webp",
     "file_url": "wallpapers/12-keqing_electro_sword.jpg",
-    "thumb_url": "thumbs/12-keqing_electro_sword.webp"
+    "thumb_url": "thumbs/12-keqing_electro_sword.webp",
+    "file_size_bytes": 1067515,
+    "wallpaper": "wallpapers/12-keqing_electro_sword.jpg",
+    "characters": [
+      "Keqing"
+    ]
   },
   {
     "index": 13,
@@ -188,11 +248,16 @@
     "category": "Action",
     "featured_in": "iPhone 15 Pro Max Dynamic Island Review",
     "resolution": "2600x5200",
-    "size": "0.6 MB",
+    "size": "0.65 MB",
     "filename": "13-yor_thorn_princess.jpg",
-    "thumb": "13-yor_thorn_princess.webp",
+    "thumb": "thumbs/13-yor_thorn_princess.webp",
     "file_url": "wallpapers/13-yor_thorn_princess.jpg",
-    "thumb_url": "thumbs/13-yor_thorn_princess.webp"
+    "thumb_url": "thumbs/13-yor_thorn_princess.webp",
+    "file_size_bytes": 677173,
+    "wallpaper": "wallpapers/13-yor_thorn_princess.jpg",
+    "characters": [
+      "Yor Forger"
+    ]
   },
   {
     "index": 14,
@@ -203,11 +268,16 @@
     "category": "Gaming",
     "featured_in": "Sony Xperia 5 IV Showcase",
     "resolution": "2500x3964",
-    "size": "0.6 MB",
+    "size": "0.56 MB",
     "filename": "14-2b_yorha_katana.jpg",
-    "thumb": "14-2b_yorha_katana.webp",
+    "thumb": "thumbs/14-2b_yorha_katana.webp",
     "file_url": "wallpapers/14-2b_yorha_katana.jpg",
-    "thumb_url": "thumbs/14-2b_yorha_katana.webp"
+    "thumb_url": "thumbs/14-2b_yorha_katana.webp",
+    "file_size_bytes": 584676,
+    "wallpaper": "wallpapers/14-2b_yorha_katana.jpg",
+    "characters": [
+      "2B"
+    ]
   },
   {
     "index": 15,
@@ -218,11 +288,16 @@
     "category": "Action",
     "featured_in": "RedMagic 9 Pro Shadow Display",
     "resolution": "1080x1920",
-    "size": "1.0 MB",
+    "size": "1.03 MB",
     "filename": "15-sung_jinwoo_shadow_monarch.png",
-    "thumb": "15-sung_jinwoo_shadow_monarch.webp",
+    "thumb": "thumbs/15-sung_jinwoo_shadow_monarch.webp",
     "file_url": "wallpapers/15-sung_jinwoo_shadow_monarch.png",
-    "thumb_url": "thumbs/15-sung_jinwoo_shadow_monarch.webp"
+    "thumb_url": "thumbs/15-sung_jinwoo_shadow_monarch.webp",
+    "file_size_bytes": 1082072,
+    "wallpaper": "wallpapers/15-sung_jinwoo_shadow_monarch.png",
+    "characters": [
+      "Sung Jin-Woo"
+    ]
   },
   {
     "index": 16,
@@ -233,11 +308,16 @@
     "category": "Action",
     "featured_in": "AlphaCoders Featured Spotlight in Shorts",
     "resolution": "1736x2754",
-    "size": "0.4 MB",
+    "size": "0.43 MB",
     "filename": "16-naruto_sasuke_final_valley.jpg",
-    "thumb": "16-naruto_sasuke_final_valley.webp",
+    "thumb": "thumbs/16-naruto_sasuke_final_valley.webp",
     "file_url": "wallpapers/16-naruto_sasuke_final_valley.jpg",
-    "thumb_url": "thumbs/16-naruto_sasuke_final_valley.webp"
+    "thumb_url": "thumbs/16-naruto_sasuke_final_valley.webp",
+    "file_size_bytes": 450521,
+    "wallpaper": "wallpapers/16-naruto_sasuke_final_valley.jpg",
+    "characters": [
+      "Naruto & Sasuke"
+    ]
   },
   {
     "index": 17,
@@ -250,9 +330,14 @@
     "resolution": "3284x6524",
     "size": "4.6 MB",
     "filename": "17-frieren_beyond_journey.jpg",
-    "thumb": "17-frieren_beyond_journey.webp",
+    "thumb": "thumbs/17-frieren_beyond_journey.webp",
     "file_url": "wallpapers/17-frieren_beyond_journey.jpg",
-    "thumb_url": "thumbs/17-frieren_beyond_journey.webp"
+    "thumb_url": "thumbs/17-frieren_beyond_journey.webp",
+    "file_size_bytes": 4821813,
+    "wallpaper": "wallpapers/17-frieren_beyond_journey.jpg",
+    "characters": [
+      "Frieren"
+    ]
   },
   {
     "index": 18,
@@ -263,11 +348,16 @@
     "category": "Romance",
     "featured_in": "Vivo X100 Pro Portrait Test",
     "resolution": "1332x2666",
-    "size": "5.4 MB",
+    "size": "5.36 MB",
     "filename": "18-ai_hoshino_idol.png",
-    "thumb": "18-ai_hoshino_idol.webp",
+    "thumb": "thumbs/18-ai_hoshino_idol.webp",
     "file_url": "wallpapers/18-ai_hoshino_idol.png",
-    "thumb_url": "thumbs/18-ai_hoshino_idol.webp"
+    "thumb_url": "thumbs/18-ai_hoshino_idol.webp",
+    "file_size_bytes": 5624863,
+    "wallpaper": "wallpapers/18-ai_hoshino_idol.png",
+    "characters": [
+      "Ai Hoshino"
+    ]
   },
   {
     "index": 19,
@@ -278,11 +368,16 @@
     "category": "Action",
     "featured_in": "Xiaomi 14 Ultra AMOLED Test",
     "resolution": "1080x1920",
-    "size": "0.8 MB",
+    "size": "0.78 MB",
     "filename": "19-nezuko_demon_form.png",
-    "thumb": "19-nezuko_demon_form.webp",
+    "thumb": "thumbs/19-nezuko_demon_form.webp",
     "file_url": "wallpapers/19-nezuko_demon_form.png",
-    "thumb_url": "thumbs/19-nezuko_demon_form.webp"
+    "thumb_url": "thumbs/19-nezuko_demon_form.webp",
+    "file_size_bytes": 820966,
+    "wallpaper": "wallpapers/19-nezuko_demon_form.png",
+    "characters": [
+      "Nezuko Kamado"
+    ]
   },
   {
     "index": 20,
@@ -293,11 +388,16 @@
     "category": "Action",
     "featured_in": "Motorola Edge 50 Ultra Review",
     "resolution": "2250x4000",
-    "size": "4.2 MB",
+    "size": "4.17 MB",
     "filename": "20-mikasa_scout_regiment.png",
-    "thumb": "20-mikasa_scout_regiment.webp",
+    "thumb": "thumbs/20-mikasa_scout_regiment.webp",
     "file_url": "wallpapers/20-mikasa_scout_regiment.png",
-    "thumb_url": "thumbs/20-mikasa_scout_regiment.webp"
+    "thumb_url": "thumbs/20-mikasa_scout_regiment.webp",
+    "file_size_bytes": 4367545,
+    "wallpaper": "wallpapers/20-mikasa_scout_regiment.png",
+    "characters": [
+      "Mikasa Ackerman"
+    ]
   },
   {
     "index": 21,
@@ -308,10 +408,567 @@
     "category": "Cyberpunk",
     "featured_in": "Nothing Phone (2a) Aesthetic Test",
     "resolution": "1080x1920",
-    "size": "2.6 MB",
+    "size": "2.56 MB",
     "filename": "21-cyberpunk_gasmask_girl.jpg",
-    "thumb": "21-cyberpunk_gasmask_girl.webp",
+    "thumb": "thumbs/21-cyberpunk_gasmask_girl.webp",
     "file_url": "wallpapers/21-cyberpunk_gasmask_girl.jpg",
-    "thumb_url": "thumbs/21-cyberpunk_gasmask_girl.webp"
+    "thumb_url": "thumbs/21-cyberpunk_gasmask_girl.webp",
+    "file_size_bytes": 2683950,
+    "wallpaper": "wallpapers/21-cyberpunk_gasmask_girl.jpg",
+    "characters": [
+      "Streetwear Girl"
+    ]
+  },
+  {
+    "id": "shampoo_purple_bells",
+    "title": "Shampoo (Purple Hair & Bells)",
+    "anime": "Ranma 1/2",
+    "category": "Romance",
+    "characters": [
+      "Shampoo"
+    ],
+    "resolution": "1536x2048",
+    "size": "0.37 MB",
+    "file_size_bytes": 382801,
+    "wallpaper": "wallpapers/22-shampoo_purple_bells.jpg",
+    "thumb": "thumbs/22-shampoo_purple_bells.webp",
+    "featured_in": "OnePlus 12 & Xiaomi 14 Ultra Showcases",
+    "index": 22,
+    "file_url": "wallpapers/22-shampoo_purple_bells.jpg",
+    "thumb_url": "thumbs/22-shampoo_purple_bells.webp",
+    "character": "Shampoo"
+  },
+  {
+    "id": "ranma_martial_arts",
+    "title": "Ranma Saotome (Chinese Tunic & Pigtail)",
+    "anime": "Ranma 1/2",
+    "category": "Action",
+    "characters": [
+      "Ranma Saotome"
+    ],
+    "resolution": "1158x1638",
+    "size": "1.93 MB",
+    "file_size_bytes": 2018854,
+    "wallpaper": "wallpapers/23-ranma_martial_arts.png",
+    "thumb": "thumbs/23-ranma_martial_arts.webp",
+    "featured_in": "Sony Xperia 1 VI & Pixel 9 Pro Fold Tests",
+    "index": 23,
+    "file_url": "wallpapers/23-ranma_martial_arts.png",
+    "thumb_url": "thumbs/23-ranma_martial_arts.webp",
+    "character": "Ranma Saotome"
+  },
+  {
+    "id": "miku_nakano_headphones",
+    "title": "Miku Nakano (Blue Headset & Matcha)",
+    "anime": "The Quintessential Quintuplets",
+    "category": "Romance",
+    "characters": [
+      "Miku Nakano"
+    ],
+    "resolution": "1080x2220",
+    "size": "1.82 MB",
+    "file_size_bytes": 1903333,
+    "wallpaper": "wallpapers/24-miku_nakano_headphones.jpg",
+    "thumb": "thumbs/24-miku_nakano_headphones.webp",
+    "featured_in": "Nothing Phone (2a) & Google Pixel 8a Reviews",
+    "index": 24,
+    "file_url": "wallpapers/24-miku_nakano_headphones.jpg",
+    "thumb_url": "thumbs/24-miku_nakano_headphones.webp",
+    "character": "Miku Nakano"
+  },
+  {
+    "id": "nino_nakano_butterfly",
+    "title": "Nino Nakano (Black Butterfly Ribbons)",
+    "anime": "The Quintessential Quintuplets",
+    "category": "Romance",
+    "characters": [
+      "Nino Nakano"
+    ],
+    "resolution": "1025x2025",
+    "size": "0.42 MB",
+    "file_size_bytes": 436267,
+    "wallpaper": "wallpapers/25-nino_nakano_butterfly.jpg",
+    "thumb": "thumbs/25-nino_nakano_butterfly.webp",
+    "featured_in": "Samsung Galaxy Z Flip 6 & Motorola Edge 50 Pro",
+    "index": 25,
+    "file_url": "wallpapers/25-nino_nakano_butterfly.jpg",
+    "thumb_url": "thumbs/25-nino_nakano_butterfly.webp",
+    "character": "Nino Nakano"
+  },
+  {
+    "id": "bocchi_guitar_tracksuit",
+    "title": "Hitori Gotoh (Bocchi Pink Tracksuit & Les Paul)",
+    "anime": "Bocchi the Rock!",
+    "category": "Romance",
+    "characters": [
+      "Hitori Gotoh"
+    ],
+    "resolution": "1219x2048",
+    "size": "3.37 MB",
+    "file_size_bytes": 3530022,
+    "wallpaper": "wallpapers/26-bocchi_guitar_tracksuit.png",
+    "thumb": "thumbs/26-bocchi_guitar_tracksuit.webp",
+    "featured_in": "OnePlus 13 & Xiaomi 15 Pro Display Tests",
+    "index": 26,
+    "file_url": "wallpapers/26-bocchi_guitar_tracksuit.png",
+    "thumb_url": "thumbs/26-bocchi_guitar_tracksuit.webp",
+    "character": "Hitori Gotoh"
+  },
+  {
+    "id": "marin_kitagawa_kuroe",
+    "title": "Marin Kitagawa (Cosplay & Neon Aesthetic)",
+    "anime": "My Dress-Up Darling",
+    "category": "Romance",
+    "characters": [
+      "Marin Kitagawa"
+    ],
+    "resolution": "1080x2400",
+    "size": "1.12 MB",
+    "file_size_bytes": 1172980,
+    "wallpaper": "wallpapers/27-marin_kitagawa_kuroe.jpg",
+    "thumb": "thumbs/27-marin_kitagawa_kuroe.webp",
+    "featured_in": "Vivo X200 Pro & OnePlus Nord 4 Showcases",
+    "index": 27,
+    "file_url": "wallpapers/27-marin_kitagawa_kuroe.jpg",
+    "thumb_url": "thumbs/27-marin_kitagawa_kuroe.webp",
+    "character": "Marin Kitagawa"
+  },
+  {
+    "id": "rebecca_edgerunners_dual_pistols",
+    "title": "Rebecca (Cyberpunk Dual Gunner)",
+    "anime": "Cyberpunk: Edgerunners",
+    "category": "Cyberpunk",
+    "characters": [
+      "Rebecca"
+    ],
+    "resolution": "3396x4800",
+    "size": "1.48 MB",
+    "file_size_bytes": 1556807,
+    "wallpaper": "wallpapers/28-rebecca_edgerunners_dual_pistols.jpg",
+    "thumb": "thumbs/28-rebecca_edgerunners_dual_pistols.webp",
+    "featured_in": "Asus ROG Phone 8 Pro Gaming Benchmark",
+    "index": 28,
+    "file_url": "wallpapers/28-rebecca_edgerunners_dual_pistols.jpg",
+    "thumb_url": "thumbs/28-rebecca_edgerunners_dual_pistols.webp",
+    "character": "Rebecca"
+  },
+  {
+    "id": "anya_forger_smirk",
+    "title": "Anya Forger (Signature 'Heh' Smirk)",
+    "anime": "Spy x Family",
+    "category": "Romance",
+    "characters": [
+      "Anya Forger"
+    ],
+    "resolution": "4320x6480",
+    "size": "1.78 MB",
+    "file_size_bytes": 1867745,
+    "wallpaper": "wallpapers/29-anya_forger_smirk.jpg",
+    "thumb": "thumbs/29-anya_forger_smirk.webp",
+    "featured_in": "CMF Phone 1 & Nothing Phone (2a) Plus Reviews",
+    "index": 29,
+    "file_url": "wallpapers/29-anya_forger_smirk.jpg",
+    "thumb_url": "thumbs/29-anya_forger_smirk.webp",
+    "character": "Anya Forger"
+  },
+  {
+    "id": "spike_spiegel_smoke",
+    "title": "Spike Spiegel (Neo-Noir Cigarette Silhouette)",
+    "anime": "Cowboy Bebop",
+    "category": "Cyberpunk",
+    "characters": [
+      "Spike Spiegel"
+    ],
+    "resolution": "2164x3236",
+    "size": "1.23 MB",
+    "file_size_bytes": 1292635,
+    "wallpaper": "wallpapers/30-spike_spiegel_smoke.jpg",
+    "thumb": "thumbs/30-spike_spiegel_smoke.webp",
+    "featured_in": "Sony Xperia 1 V & Motorola Edge 50 Ultra OLED Audits",
+    "index": 30,
+    "file_url": "wallpapers/30-spike_spiegel_smoke.jpg",
+    "thumb_url": "thumbs/30-spike_spiegel_smoke.webp",
+    "character": "Spike Spiegel"
+  },
+  {
+    "id": "kaneda_akira_bike",
+    "title": "Shotaro Kaneda (Red Bike & Neo-Tokyo)",
+    "anime": "Akira",
+    "category": "Cyberpunk",
+    "characters": [
+      "Shotaro Kaneda"
+    ],
+    "resolution": "2480x3508",
+    "size": "18.15 MB",
+    "file_size_bytes": 19030929,
+    "wallpaper": "wallpapers/31-kaneda_akira_bike.png",
+    "thumb": "thumbs/31-kaneda_akira_bike.webp",
+    "featured_in": "Samsung Galaxy S24 Ultra Red Benchmark",
+    "index": 31,
+    "file_url": "wallpapers/31-kaneda_akira_bike.png",
+    "thumb_url": "thumbs/31-kaneda_akira_bike.webp",
+    "character": "Shotaro Kaneda"
+  },
+  {
+    "id": "hu_tao_butterfly_ghost",
+    "title": "Hu Tao (Fragrance in Thaw & Spirit)",
+    "anime": "Genshin Impact",
+    "category": "Gaming",
+    "characters": [
+      "Hu Tao"
+    ],
+    "resolution": "1024x1798",
+    "size": "2.7 MB",
+    "file_size_bytes": 2835574,
+    "wallpaper": "wallpapers/32-hu_tao_butterfly_ghost.png",
+    "thumb": "thumbs/32-hu_tao_butterfly_ghost.webp",
+    "featured_in": "Honor Magic 7 Pro & Poco F6 Pro Reviews",
+    "index": 32,
+    "file_url": "wallpapers/32-hu_tao_butterfly_ghost.png",
+    "thumb_url": "thumbs/32-hu_tao_butterfly_ghost.webp",
+    "character": "Hu Tao"
+  },
+  {
+    "id": "makise_kurisu_labcoat",
+    "title": "Makise Kurisu (Amadeus & World Lines)",
+    "anime": "Steins;Gate",
+    "category": "Cyberpunk",
+    "characters": [
+      "Makise Kurisu"
+    ],
+    "resolution": "1447x2888",
+    "size": "0.53 MB",
+    "file_size_bytes": 551180,
+    "wallpaper": "wallpapers/33-makise_kurisu_labcoat.jpg",
+    "thumb": "thumbs/33-makise_kurisu_labcoat.webp",
+    "featured_in": "Google Pixel 9 Pro 1-Month Review",
+    "index": 33,
+    "file_url": "wallpapers/33-makise_kurisu_labcoat.jpg",
+    "thumb_url": "thumbs/33-makise_kurisu_labcoat.webp",
+    "character": "Makise Kurisu"
+  },
+  {
+    "id": "reze_chainsaw_bomb_devil",
+    "title": "Reze (Bomb Devil Spark & Choker)",
+    "anime": "Chainsaw Man",
+    "category": "Action",
+    "characters": [
+      "Reze"
+    ],
+    "resolution": "3600x5008",
+    "size": "19.77 MB",
+    "file_size_bytes": 20733478,
+    "wallpaper": "wallpapers/34-reze_chainsaw_bomb_devil.png",
+    "thumb": "thumbs/34-reze_chainsaw_bomb_devil.webp",
+    "featured_in": "Xiaomi 14 Ultra AMOLED Black Level Audit",
+    "index": 34,
+    "file_url": "wallpapers/34-reze_chainsaw_bomb_devil.png",
+    "thumb_url": "thumbs/34-reze_chainsaw_bomb_devil.webp",
+    "character": "Reze"
+  },
+  {
+    "id": "sukuna_malevolent_shrine",
+    "title": "Ryomen Sukuna (King of Curses & Markings)",
+    "anime": "Jujutsu Kaisen",
+    "category": "Action",
+    "characters": [
+      "Ryomen Sukuna"
+    ],
+    "resolution": "1080x1920",
+    "size": "1.46 MB",
+    "file_size_bytes": 1529193,
+    "wallpaper": "wallpapers/35-sukuna_malevolent_shrine.png",
+    "thumb": "thumbs/35-sukuna_malevolent_shrine.webp",
+    "featured_in": "Realme GT 6 Flagship Killer Test",
+    "index": 35,
+    "file_url": "wallpapers/35-sukuna_malevolent_shrine.png",
+    "thumb_url": "thumbs/35-sukuna_malevolent_shrine.webp",
+    "character": "Ryomen Sukuna"
+  },
+  {
+    "id": "fern_zoltraak_staff",
+    "title": "Fern (Ordinary Defensive & Zoltraak Magic)",
+    "anime": "Frieren: Beyond Journey's End",
+    "category": "Gaming",
+    "characters": [
+      "Fern"
+    ],
+    "resolution": "1900x3085",
+    "size": "2.46 MB",
+    "file_size_bytes": 2581041,
+    "wallpaper": "wallpapers/36-fern_zoltraak_staff.jpg",
+    "thumb": "thumbs/36-fern_zoltraak_staff.webp",
+    "featured_in": "Honor 200 Pro Portrait Display Test",
+    "index": 36,
+    "file_url": "wallpapers/36-fern_zoltraak_staff.jpg",
+    "thumb_url": "thumbs/36-fern_zoltraak_staff.webp",
+    "character": "Fern"
+  },
+  {
+    "id": "eva_01_berserk_neon",
+    "title": "Evangelion Unit-01 (Berserk Awakening & Horn)",
+    "anime": "Neon Genesis Evangelion",
+    "category": "Mecha",
+    "characters": [
+      "EVA Unit-01"
+    ],
+    "resolution": "3720x5262",
+    "size": "2.38 MB",
+    "file_size_bytes": 2494570,
+    "wallpaper": "wallpapers/37-eva_01_berserk_neon.jpg",
+    "thumb": "thumbs/37-eva_01_berserk_neon.webp",
+    "featured_in": "Asus ROG Phone 7 Ultimate Review",
+    "index": 37,
+    "file_url": "wallpapers/37-eva_01_berserk_neon.jpg",
+    "thumb_url": "thumbs/37-eva_01_berserk_neon.webp",
+    "character": "EVA Unit-01"
+  },
+  {
+    "id": "ichigo_bankai_hollow",
+    "title": "Ichigo Kurosaki (Tensa Zangetsu & Hollow Mask)",
+    "anime": "Bleach",
+    "category": "Action",
+    "characters": [
+      "Ichigo Kurosaki"
+    ],
+    "resolution": "1080x1920",
+    "size": "0.62 MB",
+    "file_size_bytes": 652557,
+    "wallpaper": "wallpapers/38-ichigo_bankai_hollow.jpg",
+    "thumb": "thumbs/38-ichigo_bankai_hollow.webp",
+    "featured_in": "Poco F6 Speed Benchmark",
+    "index": 38,
+    "file_url": "wallpapers/38-ichigo_bankai_hollow.jpg",
+    "thumb_url": "thumbs/38-ichigo_bankai_hollow.webp",
+    "character": "Ichigo Kurosaki"
+  },
+  {
+    "id": "levi_ackerman_odm",
+    "title": "Levi Ackerman (Captain of Special Operations)",
+    "anime": "Attack on Titan",
+    "category": "Action",
+    "characters": [
+      "Levi Ackerman"
+    ],
+    "resolution": "1080x1920",
+    "size": "0.77 MB",
+    "file_size_bytes": 802846,
+    "wallpaper": "wallpapers/39-levi_ackerman_odm.jpg",
+    "thumb": "thumbs/39-levi_ackerman_odm.webp",
+    "featured_in": "Xiaomi 13T Pro High Refresh Test",
+    "index": 39,
+    "file_url": "wallpapers/39-levi_ackerman_odm.jpg",
+    "thumb_url": "thumbs/39-levi_ackerman_odm.webp",
+    "character": "Levi Ackerman"
+  },
+  {
+    "id": "a2_yorha_katana",
+    "title": "YoRHa Type A No. 2 (A2 Long Hair Blade)",
+    "anime": "NieR:Automata",
+    "category": "Gaming",
+    "characters": [
+      "A2"
+    ],
+    "resolution": "1080x1902",
+    "size": "2.16 MB",
+    "file_size_bytes": 2264186,
+    "wallpaper": "wallpapers/40-a2_yorha_katana.png",
+    "thumb": "thumbs/40-a2_yorha_katana.webp",
+    "featured_in": "Sony Xperia 5 V Compact Powerhouse Review",
+    "index": 40,
+    "file_url": "wallpapers/40-a2_yorha_katana.png",
+    "thumb_url": "thumbs/40-a2_yorha_katana.webp",
+    "character": "A2"
+  },
+  {
+    "id": "roronoa_zoro_santoryu",
+    "title": "Roronoa Zoro (Santoryu Three Swords Style)",
+    "anime": "One Piece",
+    "category": "Action",
+    "characters": [
+      "Roronoa Zoro"
+    ],
+    "resolution": "2480x3508",
+    "size": "0.58 MB",
+    "file_size_bytes": 603208,
+    "wallpaper": "wallpapers/41-roronoa_zoro_santoryu.jpg",
+    "thumb": "thumbs/41-roronoa_zoro_santoryu.webp",
+    "featured_in": "Samsung Galaxy Z Fold 6 Multi-Window Test",
+    "index": 41,
+    "file_url": "wallpapers/41-roronoa_zoro_santoryu.jpg",
+    "thumb_url": "thumbs/41-roronoa_zoro_santoryu.webp",
+    "character": "Roronoa Zoro"
+  },
+  {
+    "id": "jotaro_kujo_star_platinum",
+    "title": "Jotaro Kujo (Star Platinum Ora Aura)",
+    "anime": "JoJo's Bizarre Adventure",
+    "category": "Action",
+    "characters": [
+      "Jotaro Kujo"
+    ],
+    "resolution": "1600x2133",
+    "size": "4.58 MB",
+    "file_size_bytes": 4802002,
+    "wallpaper": "wallpapers/42-jotaro_kujo_star_platinum.png",
+    "thumb": "thumbs/42-jotaro_kujo_star_platinum.webp",
+    "featured_in": "OnePlus Open Unboxing & Display Review",
+    "index": 42,
+    "file_url": "wallpapers/42-jotaro_kujo_star_platinum.png",
+    "thumb_url": "thumbs/42-jotaro_kujo_star_platinum.webp",
+    "character": "Jotaro Kujo"
+  },
+  {
+    "id": "goku_ultra_instinct_silver",
+    "title": "Son Goku (Mastered Ultra Instinct Aura)",
+    "anime": "Dragon Ball Super",
+    "category": "Action",
+    "characters": [
+      "Son Goku"
+    ],
+    "resolution": "1687x3653",
+    "size": "1.2 MB",
+    "file_size_bytes": 1258160,
+    "wallpaper": "wallpapers/43-goku_ultra_instinct_silver.jpg",
+    "thumb": "thumbs/43-goku_ultra_instinct_silver.webp",
+    "featured_in": "Poco X6 Pro Peak Brightness Test",
+    "index": 43,
+    "file_url": "wallpapers/43-goku_ultra_instinct_silver.jpg",
+    "thumb_url": "thumbs/43-goku_ultra_instinct_silver.webp",
+    "character": "Son Goku"
+  },
+  {
+    "id": "tanjiro_hinokami_kagura",
+    "title": "Tanjiro Kamado (Dance of the Fire God)",
+    "anime": "Demon Slayer",
+    "category": "Action",
+    "characters": [
+      "Tanjiro Kamado"
+    ],
+    "resolution": "1440x2560",
+    "size": "0.95 MB",
+    "file_size_bytes": 998343,
+    "wallpaper": "wallpapers/44-tanjiro_hinokami_kagura.jpg",
+    "thumb": "thumbs/44-tanjiro_hinokami_kagura.webp",
+    "featured_in": "Xiaomi 15 Display Contrast Review",
+    "index": 44,
+    "file_url": "wallpapers/44-tanjiro_hinokami_kagura.jpg",
+    "thumb_url": "thumbs/44-tanjiro_hinokami_kagura.webp",
+    "character": "Tanjiro Kamado"
+  },
+  {
+    "id": "megumi_shadow_divine_dog",
+    "title": "Megumi Fushiguro (Ten Shadows Technique)",
+    "anime": "Jujutsu Kaisen",
+    "category": "Action",
+    "characters": [
+      "Megumi Fushiguro"
+    ],
+    "resolution": "1080x1920",
+    "size": "1.42 MB",
+    "file_size_bytes": 1494160,
+    "wallpaper": "wallpapers/45-megumi_shadow_divine_dog.jpg",
+    "thumb": "thumbs/45-megumi_shadow_divine_dog.webp",
+    "featured_in": "Google Pixel 8 Pro Contrast Review",
+    "index": 45,
+    "file_url": "wallpapers/45-megumi_shadow_divine_dog.jpg",
+    "thumb_url": "thumbs/45-megumi_shadow_divine_dog.webp",
+    "character": "Megumi Fushiguro"
+  },
+  {
+    "id": "ruka_sarashina_blue_ribbon",
+    "title": "Ruka Sarashina (Blue Ribbon & Heartbeat)",
+    "anime": "Rent-A-Girlfriend",
+    "category": "Romance",
+    "characters": [
+      "Ruka Sarashina"
+    ],
+    "resolution": "2481x3519",
+    "size": "0.75 MB",
+    "file_size_bytes": 788540,
+    "wallpaper": "wallpapers/46-ruka_sarashina_blue_ribbon.png",
+    "thumb": "thumbs/46-ruka_sarashina_blue_ribbon.webp",
+    "featured_in": "OnePlus 12R Flagship Killer Showcase",
+    "index": 46,
+    "file_url": "wallpapers/46-ruka_sarashina_blue_ribbon.png",
+    "thumb_url": "thumbs/46-ruka_sarashina_blue_ribbon.webp",
+    "character": "Ruka Sarashina"
+  },
+  {
+    "id": "violet_evergarden_parasol",
+    "title": "Violet Evergarden (Auto Memory Doll & Parasol)",
+    "anime": "Violet Evergarden",
+    "category": "Romance",
+    "characters": [
+      "Violet Evergarden"
+    ],
+    "resolution": "2166x4000",
+    "size": "7.58 MB",
+    "file_size_bytes": 7949325,
+    "wallpaper": "wallpapers/47-violet_evergarden_parasol.png",
+    "thumb": "thumbs/47-violet_evergarden_parasol.webp",
+    "featured_in": "iPhone 16 Pro Max 1-Month Review",
+    "index": 47,
+    "file_url": "wallpapers/47-violet_evergarden_parasol.png",
+    "thumb_url": "thumbs/47-violet_evergarden_parasol.webp",
+    "character": "Violet Evergarden"
+  },
+  {
+    "id": "holo_spice_and_wolf_wheat",
+    "title": "Holo the Wise Wolf (Golden Wheat & Apples)",
+    "anime": "Spice and Wolf",
+    "category": "Romance",
+    "characters": [
+      "Holo"
+    ],
+    "resolution": "1985x2786",
+    "size": "0.79 MB",
+    "file_size_bytes": 828901,
+    "wallpaper": "wallpapers/48-holo_spice_and_wolf_wheat.jpg",
+    "thumb": "thumbs/48-holo_spice_and_wolf_wheat.webp",
+    "featured_in": "Honor Magic 6 Pro Sunlight Legibility Test",
+    "index": 48,
+    "file_url": "wallpapers/48-holo_spice_and_wolf_wheat.jpg",
+    "thumb_url": "thumbs/48-holo_spice_and_wolf_wheat.webp",
+    "character": "Holo"
+  },
+  {
+    "id": "denji_chainsaw_rippcord",
+    "title": "Denji (Chainsaw Devil Rev & Sparks)",
+    "anime": "Chainsaw Man",
+    "category": "Action",
+    "characters": [
+      "Denji"
+    ],
+    "resolution": "2480x3953",
+    "size": "4.58 MB",
+    "file_size_bytes": 4806897,
+    "wallpaper": "wallpapers/49-denji_chainsaw_rippcord.jpg",
+    "thumb": "thumbs/49-denji_chainsaw_rippcord.webp",
+    "featured_in": "Redmi Note 13 Pro Plus Test",
+    "index": 49,
+    "file_url": "wallpapers/49-denji_chainsaw_rippcord.jpg",
+    "thumb_url": "thumbs/49-denji_chainsaw_rippcord.webp",
+    "character": "Denji"
+  },
+  {
+    "id": "lucy_david_neon_orbit",
+    "title": "Lucy & David (Night City Cyber Neon Orbit)",
+    "anime": "Cyberpunk: Edgerunners",
+    "category": "Cyberpunk",
+    "characters": [
+      "Lucy",
+      "David Martinez"
+    ],
+    "resolution": "3300x5100",
+    "size": "14.85 MB",
+    "file_size_bytes": 15566519,
+    "wallpaper": "wallpapers/50-lucy_david_neon_orbit.png",
+    "thumb": "thumbs/50-lucy_david_neon_orbit.webp",
+    "featured_in": "OnePlus 11 & ROG Phone 8 Benchmark",
+    "index": 50,
+    "file_url": "wallpapers/50-lucy_david_neon_orbit.png",
+    "thumb_url": "thumbs/50-lucy_david_neon_orbit.webp",
+    "character": "Lucy, David Martinez"
   }
 ]

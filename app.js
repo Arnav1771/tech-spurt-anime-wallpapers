@@ -40,6 +40,10 @@ document.addEventListener('DOMContentLoaded', async () => {
     const res = await fetch('wallpapers.json');
     if (res.ok) {
       catalog = await res.json();
+      const statCount = document.getElementById('stat-count');
+      if (statCount) statCount.textContent = catalog.length;
+      const allPill = document.querySelector('[data-category="all"]');
+      if (allPill) allPill.textContent = `All (${catalog.length})`;
     } else {
       throw new Error('Fetch failed');
     }
