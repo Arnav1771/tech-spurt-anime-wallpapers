@@ -84,6 +84,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       const card = document.createElement('div');
       card.className = 'wp-card';
       card.setAttribute('data-id', item.id);
+      const filename = item.file_url.split('/').pop();
 
       card.innerHTML = `
         <div class="wp-thumb-wrapper" title="Click to preview on phone">
@@ -94,16 +95,23 @@ document.addEventListener('DOMContentLoaded', async () => {
           </div>
           <div class="wp-quick-actions">
             <button class="btn btn-primary btn-sm btn-action-preview">📱 Preview</button>
-            <button class="btn btn-secondary btn-sm btn-action-zoom">🔍 View</button>
+            <button class="btn btn-secondary btn-sm btn-action-zoom">🔍 Zoom</button>
+            <a href="${item.file_url}" download="${filename}" class="btn btn-sm btn-action-dl" title="Download Full Original (${item.size})">⬇️ Save</a>
           </div>
         </div>
         <div class="wp-info">
           <h4 class="wp-title">${item.title}</h4>
           <span class="wp-anime">${item.anime}</span>
           <p class="wp-featured">${item.featured_in}</p>
-          <div class="wp-card-footer">
-            <button class="btn btn-secondary btn-sm btn-card-phone" style="flex: 1;">📱 On Phone</button>
-            <a href="${item.file_url}" download class="btn btn-primary btn-sm" title="Download original resolution">⬇️ 4K</a>
+          <div class="wp-card-actions">
+            <a href="${item.file_url}" download="${filename}" class="btn btn-download-full" title="Download uncompressed original ${item.resolution} (${item.size})">
+              <span class="dl-label">⬇️ Download Full Original</span>
+              <span class="dl-meta">${item.size}</span>
+            </a>
+            <div class="wp-card-subactions">
+              <button class="btn btn-secondary btn-sm btn-card-phone" title="Preview on live phone mockup">📱 On Phone</button>
+              <button class="btn btn-secondary btn-sm btn-card-zoom" title="Open full-resolution inspector">🔍 Zoom</button>
+            </div>
           </div>
         </div>
       `;
@@ -113,6 +121,8 @@ document.addEventListener('DOMContentLoaded', async () => {
       const btnPhone = card.querySelector('.btn-card-phone');
       const btnPreview = card.querySelector('.btn-action-preview');
       const btnZoom = card.querySelector('.btn-action-zoom');
+      const btnCardZoom = card.querySelector('.btn-card-zoom');
+      const btnActionDl = card.querySelector('.btn-action-dl');
 
       const applyHandler = () => {
         setActiveWallpaper(item);
@@ -123,7 +133,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       };
 
       thumb.addEventListener('click', (e) => {
-        if (!e.target.closest('.btn-action-zoom')) {
+        if (!e.target.closest('.btn-action-zoom') && !e.target.closest('.btn-action-dl')) {
           applyHandler();
         }
       });
@@ -133,9 +143,20 @@ document.addEventListener('DOMContentLoaded', async () => {
         applyHandler();
       });
 
-      btnZoom.addEventListener('click', (e) => {
+      const openZoomHandler = (e) => {
         e.stopPropagation();
         openLightbox(item);
+      };
+      btnZoom.addEventListener('click', openZoomHandler);
+      btnCardZoom.addEventListener('click', openZoomHandler);
+
+      btnActionDl.addEventListener('click', (e) => {
+        e.stopPropagation();
+        showToast(`Downloading ${item.title}...`);
+      });
+
+      card.querySelector('.btn-download-full').addEventListener('click', () => {
+        showToast(`Downloading ${item.title} (${item.size})...`);
       });
 
       grid.appendChild(card);
@@ -145,6 +166,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   // Set Active Wallpaper on Phone
   function setActiveWallpaper(item) {
     currentActiveId = item.id;
+    const filename = item.file_url.split('/').pop();
     activePhoneImg.style.opacity = '0';
     setTimeout(() => {
       activePhoneImg.src = item.file_url;
@@ -158,6 +180,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     metaTitle.textContent = item.title;
     metaFeatured.textContent = `Featured in: ${item.featured_in}`;
     btnMetaDownload.href = item.file_url;
+    btnMetaDownload.setAttribute('download', filename);
+    btnMetaDownload.innerHTML = `<span>⬇️ Download Full Original (${item.size})</span>`;
+    btnMetaDownload.onclick = () => {
+      showToast(`Downloading original ${filename}...`);
+    };
 
     btnMetaCopy.onclick = () => {
       const shareUrl = `${window.location.origin}${window.location.pathname}#wp=${item.id}`;
@@ -169,12 +196,18 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   // Lightbox Modal
   function openLightbox(item) {
+    const filename = item.file_url.split('/').pop();
     lightboxImg.src = item.file_url;
     lightboxTitle.textContent = item.title;
-    lightboxRes.textContent = item.resolution;
+    lightboxRes.textContent = `${item.resolution} • ${item.size}`;
     lightboxDesc.textContent = `${item.anime} • Featured in: ${item.featured_in}`;
     lightboxSize.textContent = item.size;
     lightboxDownloadLink.href = item.file_url;
+    lightboxDownloadLink.setAttribute('download', filename);
+    lightboxDownloadLink.innerHTML = `⬇️ Download Full Original (${item.size})`;
+    lightboxDownloadLink.onclick = () => {
+      showToast(`Downloading original ${filename}...`);
+    };
 
     lightboxApplyPhone.onclick = () => {
       setActiveWallpaper(item);
