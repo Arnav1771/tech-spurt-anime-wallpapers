@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech Spurt Anime Wallpapers — Finest 4K/UHD Mobile Collection</title>
+  <meta name="description" content="The curated, high-resolution original anime wallpapers featured on YouTuber Tech Spurt's phone showcases, OLED benchmarks, and flagship reviews.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body class="dark-mode">
+
+  <!-- Background Glow & Grid Effects -->
+  <div class="bg-glow glow-1"></div>
+  <div class="bg-glow glow-2"></div>
+  <div class="bg-grid"></div>
+
+  <!-- Header & Navigation -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <span class="brand-icon">⚡</span>
+        <div class="brand-text">
+          <h1>Tech Spurt <span>Anime Wallpapers</span></h1>
+          <p class="tagline">The Finest Mobile Phone Showcases in Original 4K / UHD</p>
+        </div>
+      </div>
+      
+      <div class="header-actions">
+        <a href="https://github.com/Arnav1771/tech-spurt-anime-wallpapers" target="_blank" rel="noopener" class="btn btn-secondary btn-icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+          <span>GitHub Repo</span>
+        </a>
+        <button id="theme-toggle" class="btn btn-secondary btn-icon" title="Toggle theme">
+          <span class="theme-icon">🌙</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero & Live Phone Emulator Section -->
+  <section class="hero-section">
+    <div class="container hero-grid">
+      <div class="hero-content">
+        <div class="pill-badge">
+          <span class="badge-dot"></span>
+          <span>Sourced from Tech Spurt's Review Devices</span>
+        </div>
+        <h2 class="hero-title">
+          The Wallpapers Everyone Keeps Asking <span class="gradient-text">Tech Spurt</span> For.
+        </h2>
+        <p class="hero-desc">
+          Ever paused a Tech Spurt smartphone review just to hunt down the gorgeous anime lockscreen artwork? 
+          Here is the complete, high-resolution original collection featured across his Samsung, Google Pixel, Nothing Phone, Xiaomi, and OnePlus showcases.
+        </p>
+        
+        <div class="hero-stats">
+          <div class="stat-card">
+            <span class="stat-num" id="stat-count">21</span>
+            <span class="stat-label">Showcase Wallpapers</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-num">4K/UHD</span>
+            <span class="stat-label">Original Quality</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-num">100%</span>
+            <span class="stat-label">Free & Uncompressed</span>
+          </div>
+        </div>
+
+        <div class="hero-cta">
+          <a href="#gallery" class="btn btn-primary">Browse All Wallpapers</a>
+          <button id="btn-random-pick" class="btn btn-outline">🎲 Random Pick on Phone</button>
+        </div>
+      </div>
+
+      <!-- Interactive 3D Phone Emulator -->
+      <div class="phone-showcase">
+        <div class="phone-mockup">
+          <div class="phone-screen" id="phone-screen">
+            <!-- Simulated Android/iOS Lock Screen Overlay -->
+            <div class="lockscreen-overlay">
+              <div class="status-bar">
+                <span class="status-time" id="status-time">09:28</span>
+                <div class="status-icons">
+                  <span>5G</span>
+                  <span>📶</span>
+                  <span>100%</span>
+                </div>
+              </div>
+              
+              <div class="clock-widget">
+                <div class="clock-time" id="lock-clock">09:28</div>
+                <div class="clock-date" id="lock-date">Monday, November 17</div>
+              </div>
+
+              <div class="lockscreen-bottom">
+                <div class="lock-tool-icon">🔦</div>
+                <div class="swipe-hint">
+                  <div class="swipe-bar"></div>
+                  <span>Swipe up to unlock</span>
+                </div>
+                <div class="lock-tool-icon">📷</div>
+              </div>
+            </div>
+
+            <!-- Wallpaper Inside Phone -->
+            <img id="active-phone-img" src="wallpapers/01-chizuru_red_dress.png" alt="Active Wallpaper on Phone">
+          </div>
+          <div class="phone-speaker"></div>
+          <div class="phone-cam"></div>
+        </div>
+
+        <!-- Phone Info Card -->
+        <div class="phone-meta-card" id="phone-meta-card">
+          <div class="meta-header">
+            <span class="meta-tag" id="meta-category">Romance</span>
+            <span class="meta-res" id="meta-res">1401x2211 • 5.1 MB</span>
+          </div>
+          <h3 id="meta-title">Chizuru Mizuhara (Red Dress & Rose)</h3>
+          <p class="meta-featured" id="meta-featured">Featured in: Xiaomi 14 & Vivo X100 Flagship Reviews</p>
+          <div class="meta-actions">
+            <a id="btn-meta-download" href="wallpapers/01-chizuru_red_dress.png" download class="btn btn-primary btn-sm">
+              <span>⬇️ Download Original</span>
+            </a>
+            <button id="btn-meta-copy" class="btn btn-secondary btn-sm" title="Copy Direct Image Link">
+              <span>🔗 Share Link</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filter & Gallery Section -->
+  <section id="gallery" class="gallery-section">
+    <div class="container">
+      <div class="controls-bar">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="search-input" placeholder="Search character, anime, or phone review...">
+        </div>
+
+        <div class="filter-pills" id="filter-pills">
+          <button class="filter-btn active" data-category="all">All (21)</button>
+          <button class="filter-btn" data-category="Romance">Romance & Slice of Life</button>
+          <button class="filter-btn" data-category="Cyberpunk">Cyberpunk & Sci-Fi</button>
+          <button class="filter-btn" data-category="Action">Action & Shonen</button>
+          <button class="filter-btn" data-category="Gaming">Gaming & Fantasy</button>
+          <button class="filter-btn" data-category="Mecha">Mecha & Classics</button>
+        </div>
+      </div>
+
+      <!-- Wallpaper Cards Grid -->
+      <div class="wallpaper-grid" id="wallpaper-grid">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </div>
+  </section>
+
+  <!-- About Tech Spurt & Sourcing Section -->
+  <section class="about-section">
+    <div class="container about-card">
+      <div class="about-header">
+        <span class="about-badge">ORIGIN & METHODOLOGY</span>
+        <h2>How Tech Spurt Chooses His Wallpapers</h2>
+      </div>
+      <div class="about-body">
+        <p>
+          Tech reviewer <strong>Tech Spurt</strong> (Chris Barraclough) has built a dedicated cult following not just for his witty smartphone audits and dry British humor, but for showcasing eye-catching anime artwork on high-refresh-rate AMOLED displays.
+        </p>
+        <p>
+          As revealed in his <em>"Tech Spurt's Anime Wallpapers"</em> spotlight, his primary hunting grounds include <strong>AlphaCoders (Wallpaper Abyss)</strong>, <strong>Wallhaven</strong>, and artist hubs like <strong>Pixiv</strong>. He pairs high-contrast anime characters with rich OLED displays to benchmark color punchiness, viewing angles, and punch-hole notch cutouts.
+        </p>
+        <div class="source-badges">
+          <span class="source-chip">💎 Original Creator Pixels</span>
+          <span class="source-chip">📐 Verified 19.5:9 & 20:9 Ratios</span>
+          <span class="source-chip">⚡ No Fake Upscaling</span>
+          <span class="source-chip">🎨 Artist Credited</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Fullscreen Lightbox Modal -->
+  <div class="lightbox-modal" id="lightbox-modal">
+    <div class="lightbox-backdrop" id="lightbox-backdrop"></div>
+    <div class="lightbox-content">
+      <button class="lightbox-close" id="lightbox-close" aria-label="Close modal">&times;</button>
+      <div class="lightbox-img-wrapper">
+        <img id="lightbox-img" src="" alt="Fullscreen Wallpaper">
+      </div>
+      <div class="lightbox-details">
+        <div class="details-top">
+          <h3 id="lightbox-title">Wallpaper Title</h3>
+          <span class="badge" id="lightbox-res">4K UHD</span>
+        </div>
+        <p id="lightbox-desc" class="details-desc">Anime • Featured in Review</p>
+        <div class="lightbox-actions">
+          <button id="lightbox-apply-phone" class="btn btn-secondary">📱 Preview in Phone</button>
+          <a id="lightbox-download-link" href="" download class="btn btn-primary">⬇️ Download Original (<span id="lightbox-size">0 MB</span>)</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast">Link copied to clipboard!</div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-content">
+      <p>Tech Spurt Phone Showcase Wallpaper Collection • Curated for Anime & Mobile Enthusiasts.</p>
+      <p class="footer-sub">All original artwork and character rights remain with their respective artists and copyright holders. This repository and landing page exist for non-commercial educational showcase purposes.</p>
+      <div class="footer-links">
+        <a href="https://github.com/Arnav1771/tech-spurt-anime-wallpapers" target="_blank" rel="noopener">GitHub Repository</a>
+        <span>•</span>
+        <a href="https://www.youtube.com/@TechSpurt" target="_blank" rel="noopener">Tech Spurt on YouTube</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
