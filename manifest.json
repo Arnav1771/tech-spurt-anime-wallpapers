@@ -1,0 +1,17 @@
+{
+  "name": "Tech Spurt Anime Wallpapers",
+  "short_name": "SpurtWallpapers",
+  "description": "The curated, original-resolution 4K/UHD anime mobile wallpapers featured on YouTuber Tech Spurt's phone showcases.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "thumbs/01-chizuru_red_dress.webp",
+      "sizes": "250x395",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
