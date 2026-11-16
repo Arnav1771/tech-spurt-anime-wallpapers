@@ -1,7 +1,7 @@
 # Tech Spurt Anime Wallpapers 📱✨
 
 [![Live Showcase](https://img.shields.io/badge/Live-Showcase%20Site-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arnav1771.github.io/tech-spurt-anime-wallpapers/)
-[![Wallpapers Count](https://img.shields.io/badge/Wallpapers-50%20Originals-06b6d4?style=for-the-badge)](./wallpapers.json)
+[![Wallpapers Count](https://img.shields.io/badge/Wallpapers-52%20Originals-06b6d4?style=for-the-badge)](./wallpapers.json)
 [![Resolution](https://img.shields.io/badge/Quality-4K%20%7C%205K%20%7C%206K%20UHD-ec4899?style=for-the-badge)](./wallpapers/)
 [![License](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](./LICENSE)
 
@@ -15,7 +15,7 @@ Includes an **interactive web showcase and live smartphone emulator** with real-
 
 - **📱 Interactive 3D Phone Emulator**: Live-renders any wallpaper inside a realistic bezel with a real-time updating digital clock, battery/5G status icons, and lockscreen gesture hints.
 - **⚡ Filter by Anime / Genre**: Instantly filter across *Romance & Slice of Life*, *Cyberpunk & Sci-Fi*, *Action & Shonen*, *Gaming & Fantasy*, and *Mecha*.
-- **🔍 Instant Search**: Search by character name (*Ranma, Shampoo, Miku, Nino, Bocchi, Marin, Chizuru, Komi, Lucy, Rebecca, Gojo, Makima, 2B, Sukuna, Spike*), anime series, or review showcase.
+- **🔍 Instant Search**: Search by character name (*Ranma, Shampoo, Miku, Nino, Bocchi, Marin, Chizuru, Komi, Lucy, Rebecca, Gojo, Makima, 2B, Sukuna, Spike, Saitama, Momo Ayase, Okarun*), anime series, or review showcase.
 - **🎲 Random Wallpaper Picker**: Click to pick a random wallpaper and test it on the phone screen.
 - **💎 100% Original Resolution (No Screenshots)**: Zero fake upscaling, uncompressed source files directly from AlphaCoders, Wallhaven, and original artists.
 - **🌙 Dark & Light Themes**: Cyberpunk dark mode by default with seamless light theme toggle.
@@ -23,7 +23,7 @@ Includes an **interactive web showcase and live smartphone emulator** with real-
 
 ---
 
-## 🖼️ Curated Wallpaper Catalog (50 Flagship Wallpapers)
+## 🖼️ Curated Wallpaper Catalog (52 Flagship Wallpapers)
 
 | # | Title & Character | Anime Series | Category | Resolution | Size | Featured Review Showcase |
 |---|---|---|---|---|---|---|
@@ -77,6 +77,8 @@ Includes an **interactive web showcase and live smartphone emulator** with real-
 | 48 | **Momo Ayase (Spiritual Telekinesis)** | *Dandadan* | `Action` | `2048x2896` | 9.22 MB | Vivo X200 Pro & Nothing Phone (2a) Plus Reviews |
 | 49 | **Denji (Chainsaw Devil Rev & Sparks)** | *Chainsaw Man* | `Action` | `2480x3953` | 4.58 MB | Redmi Note 13 Pro Plus Test |
 | 50 | **Lucy & David (Night City Cyber Neon Orbit)** | *Cyberpunk: Edgerunners* | `Cyberpunk` | `3300x5100` | 14.85 MB | OnePlus 11 & ROG Phone 8 Benchmark |
+| 51 | **Dandadan Train Sleep Commute (Full Uncompressed Master)** | *Dandadan* | `Romance` | `2048x1152` | 3.02 MB | Google Pixel 9 & 9 Pro Review: 2 Weeks Later! (18:40) |
+| 52 | **Dandadan Train Sleep Commute (Pixel 9 Native Display Crop)** | *Dandadan* | `Romance` | `531x1152` | 0.9 MB | Featured on Phone Screen in Google Pixel 9 Review (18:40) |
 
 ---
 
