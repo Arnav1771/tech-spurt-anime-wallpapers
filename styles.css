@@ -683,6 +683,15 @@ body {
   color: var(--primary);
   font-weight: 600;
   margin-bottom: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-block;
+}
+
+.wp-anime:hover {
+  color: #ff3366;
+  text-decoration: underline;
+  transform: translateX(2px);
 }
 
 .wp-featured {

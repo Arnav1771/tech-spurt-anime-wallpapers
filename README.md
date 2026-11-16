@@ -1,7 +1,7 @@
 # Tech Spurt Anime Wallpapers 📱✨
 
 [![Live Showcase](https://img.shields.io/badge/Live-Showcase%20Site-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arnav1771.github.io/tech-spurt-anime-wallpapers/)
-[![Wallpapers Count](https://img.shields.io/badge/Wallpapers-52%20Originals-06b6d4?style=for-the-badge)](./wallpapers.json)
+[![Wallpapers Count](https://img.shields.io/badge/Wallpapers-68%20Originals-06b6d4?style=for-the-badge)](./wallpapers.json)
 [![Resolution](https://img.shields.io/badge/Quality-4K%20%7C%205K%20%7C%206K%20UHD-ec4899?style=for-the-badge)](./wallpapers/)
 [![License](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](./LICENSE)
 
@@ -23,7 +23,7 @@ Includes an **interactive web showcase and live smartphone emulator** with real-
 
 ---
 
-## 🖼️ Curated Wallpaper Catalog (52 Flagship Wallpapers)
+## 🖼️ Curated Wallpaper Catalog (68 Flagship & AMOLED Wallpapers)
 
 | # | Title & Character | Anime Series | Category | Resolution | Size | Featured Review Showcase |
 |---|---|---|---|---|---|---|
@@ -79,6 +79,22 @@ Includes an **interactive web showcase and live smartphone emulator** with real-
 | 50 | **Lucy & David (Night City Cyber Neon Orbit)** | *Cyberpunk: Edgerunners* | `Cyberpunk` | `3300x5100` | 14.85 MB | OnePlus 11 & ROG Phone 8 Benchmark |
 | 51 | **Dandadan Train Sleep Commute (Full Uncompressed Master)** | *Dandadan* | `Romance` | `2048x1152` | 3.02 MB | Google Pixel 9 & 9 Pro Review: 2 Weeks Later! (18:40) |
 | 52 | **Dandadan Train Sleep Commute (Pixel 9 Native Display Crop)** | *Dandadan* | `Romance` | `531x1152` | 0.9 MB | Featured on Phone Screen in Google Pixel 9 Review (18:40) |
+| 53 | **Roronoa Zoro (Shadow Katana Stance)** | *One Piece* | `Shonen` | `1080x2400` | 353 KB | AlphaCoders Mobile Abyss AMOLED Collection (True Black 76%) |
+| 54 | **Monkey D. Luffy (Red Gear Glow Silhouette)** | *One Piece* | `Shonen` | `2304x4096` | 901 KB | AlphaCoders Mobile Abyss AMOLED Collection (True Black 77%) |
+| 55 | **Roronoa Zoro (Demon Aura Asura)** | *One Piece* | `Shonen` | `1440x3040` | 846 KB | AlphaCoders Mobile Abyss AMOLED Collection (QHD+ 1440x3040) |
+| 56 | **Trafalgar D. Water Law (OLED Room Shambles)** | *One Piece* | `Shonen` | `720x1520` | 358 KB | AlphaCoders Mobile Abyss AMOLED Collection (Dark Room Contrast) |
+| 57 | **Miyabi (Fierce Shadow Slash)** | *Zenless Zone Zero* | `Gaming` | `1440x2960` | 5.53 MB | AlphaCoders Mobile Abyss AMOLED Collection (1440x2960 Dynamic Cut) |
+| 58 | **Severian (Neon Cyber Wolf)** | *Zenless Zone Zero* | `Gaming` | `3072x5504` | 18.85 MB | AlphaCoders Mobile Abyss AMOLED Collection (Ultra 5K 3072x5504) |
+| 59 | **Fierce Guardian (Void Hunter)** | *Zenless Zone Zero* | `Gaming` | `1080x2400` | 2.74 MB | AlphaCoders Mobile Abyss AMOLED Collection (Neon Void Contrast) |
+| 60 | **Miyabi (Void Shard Katana)** | *Zenless Zone Zero* | `Gaming` | `1996x3508` | 1.10 MB | AlphaCoders Mobile Abyss AMOLED Collection (1996x3508 OLED Display) |
+| 61 | **Charizard (Infernal Night Flame Glow)** | *Pokemon* | `Fantasy` | `2304x4096` | 4.06 MB | AlphaCoders Mobile Abyss AMOLED Collection (4K Glow-in-the-Dark) |
+| 62 | **Gengar (Shadow Spook Darkness)** | *Pokemon* | `Fantasy` | `720x1280` | 252 KB | AlphaCoders Mobile Abyss AMOLED Collection (Ghost Nightglow) |
+| 63 | **Gengar & Haunter (Fearsome Ghost Night)** | *Pokemon* | `Fantasy` | `1242x2688` | 1.48 MB | AlphaCoders Mobile Abyss AMOLED Collection (iPhone OLED 1242x2688) |
+| 64 | **Rayquaza (Mystic Dragon Shadowed Sky)** | *Pokemon* | `Fantasy` | `1170x2532` | 2.19 MB | AlphaCoders Mobile Abyss AMOLED Collection (1170x2532 Shadowed Cliffs) |
+| 65 | **Pikachu (Midnight Lightning Spark)** | *Pokemon* | `Fantasy` | `1080x1920` | 824 KB | AlphaCoders Mobile Abyss AMOLED Collection (True Black Spark 1080x1920) |
+| 66 | **Mewtwo (Psychic Void Aura)** | *Pokemon* | `Fantasy` | `720x1280` | 224 KB | AlphaCoders Mobile Abyss AMOLED Collection (Pure Black Psychic Glow) |
+| 67 | **Guts (Blood Moon Eclipse)** | *Berserk* | `Dark Fantasy` | `1463x3171` | 307 KB | AlphaCoders Mobile Abyss AMOLED Collection (1463x3171 Crimson Eclipse) |
+| 68 | **Shigeo Kageyama (99% Cataclysm Rage)** | *Mob Psycho 100* | `Supernatural` | `1997x3567` | 635 KB | AlphaCoders Mobile Abyss AMOLED Collection (True Black 76% 1997x3567) |
 
 ---
 

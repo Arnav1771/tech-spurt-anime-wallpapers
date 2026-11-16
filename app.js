@@ -159,6 +159,17 @@ document.addEventListener('DOMContentLoaded', async () => {
         showToast(`Downloading ${item.title} (${item.size})...`);
       });
 
+      card.querySelector('.wp-anime').addEventListener('click', (e) => {
+        e.stopPropagation();
+        searchInput.value = item.anime;
+        activeCategory = 'all';
+        document.querySelectorAll('.filter-btn').forEach((b) => b.classList.remove('active'));
+        const allBtn = document.querySelector('[data-category="all"]');
+        if (allBtn) allBtn.classList.add('active');
+        applyFilters();
+        showToast(`Filtered by ${item.anime}`);
+      });
+
       grid.appendChild(card);
     });
   }
@@ -235,7 +246,21 @@ document.addEventListener('DOMContentLoaded', async () => {
   function applyFilters() {
     const query = searchInput.value.toLowerCase().trim();
     const filtered = catalog.filter((item) => {
-      const matchesCategory = activeCategory === 'all' || item.category === activeCategory;
+      let matchesCategory = false;
+      if (activeCategory === 'all') {
+        matchesCategory = true;
+      } else if (activeCategory === 'AMOLED') {
+        matchesCategory = item.featured_in.toLowerCase().includes('amoled') || item.category === 'AMOLED';
+      } else if (activeCategory === 'One Piece') {
+        matchesCategory = item.anime.toLowerCase().includes('one piece');
+      } else if (activeCategory === 'Zenless Zone Zero') {
+        matchesCategory = item.anime.toLowerCase().includes('zenless');
+      } else if (activeCategory === 'Pokemon') {
+        matchesCategory = item.anime.toLowerCase().includes('pokemon');
+      } else {
+        matchesCategory = item.category === activeCategory;
+      }
+
       const matchesSearch =
         !query ||
         item.title.toLowerCase().includes(query) ||
